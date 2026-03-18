@@ -1,0 +1,51 @@
+---
+category: book
+type:
+  - "#type/book"
+tags:
+  - tim-grover
+  - on-greatness
+---
+#### Key Details
+- In real life, being relentless is a state of mind that can give you the strength to achieve, to survive, to overcome, to be strong when others are not. It means craving the end result so intensely that the work becomes irrelevant.
+- You don’t have to love the hard work; you just have to crave the end result.
+- The only difference between “feedback” and “criticism” is the way you hear it
+- To be the best, whether in sports or business or any other aspect of life, it’s never enough to just get to the top; you have to stay there, and then you have to climb higher, because there’s always someone right behind you trying to catch up.
+- Being relentless means demanding more of yourself than anyone else could ever demand of you, knowing that every time you stop, you can still do more. You must do more.
+- Success isn’t the same as talent. The world is full of incredibly talented people who never succeed at anything.
+- “In order to have what you really want, you must first be who you really are.”
+- That’s what champions do; they put people in place to get results and make everyone else around them look better.
+- These are the most driven individuals you’ll ever know, with an unmatched genius for what they do: they don’t just perform a job, they reinvent it. I own this.
+- The fact is, you can’t train your body—or excel at anything—before you train your mind. You can’t commit to excellence until your mind is ready to take you there. Teach the mind to train the body.
+- Physical dominance can make you great. Mental dominance is what ultimately makes you unstoppable.
+- The true measure of an individual is determined by what you can’t measure—the intangibles.
+- One thing I know for sure is that we all have a trigger that puts us in the Zone, something that ignites our competitive intensity, laser focus, and a relentless craving to attack and conquer.
+- On a team, in business, in any group, you’ll have those who are there for the paycheck, and those who understand the mission.
+- Can you be reasonably successful by just following directions and staying within the lines? Sure. That’s what most people do.
+- The greats never stop learning. Instinct and talent without technique just makes you reckless, like a teenager driving a powerful, high-performance vehicle.
+- Instinct is raw clay that can be shaped into a masterpiece, if you develop skills that match your talent. That can only come from learning everything there is to know about what you do.
+- I don’t think you can really understand relentlessness until you’ve faced your worst fears, and you’ve experienced that internal response telling you what to do.
+- You can’t control or anticipate every obstacle that might block your path. You can only control your response, and your ability to navigate the unpredictable.
+- Once you start blaming others, you’re admitting you had no control over the situation. And without that control, you can’t create a solution.
+- The more educated you become, the more you heighten your ability to adapt to situations because experience gives you a better understanding of nuance, the tiny details no one else would think of or recognize as important.
+- When you’re young, you have one speed—fast. As you mature, you learn to vary your speed based on the situation: you know when to go slow, when to go full out.
+- A great leader knows the best way to get people to raise their performance is to put them where they can truly excel, not just where you want them to excel.
+- Our challenge in life is to use the abilities we have, and to compensate for the abilities we don’t have. It’s completely instinctive; we compensate in order to survive.
+- But regardless of how you build that team—any team, in sports or business [.] you need that one guy who never needs a fire lit under him, who commands respect and fear and attention and demands that others bring the same excellence to their performance that he demands of himself.
+- Make a choice, or a choice will be made for you.
+- Thinking doesn’t achieve outcomes, only action does. Prepare yourself with everything you’ll need to succeed, then act.
+- As you sit back doing nothing because you’re afraid to make a mistake, someone else is out there making all kinds of mistakes, learning from them, and getting to where you wanted to be. And probably laughing at your weakness.
+- Everyone plays with pain, there’s always something going on physically. The question is, how do you keep that from affecting you mentally? If you know you’re going to have constant pain, can you get comfortable being uncomfortable?
+- No matter what you do in: Are you willing to make the decision to succeed? Are you going to stand by that decision or quit when it gets hard? Will you choose to keep working when everyone else tells you to quit? Pain comes in all sorts of disguises physical, mental, emotional.
+- Only when you’re truly relentless can you understand the determination to keep pursuing a target that never stops moving.
+- When did hard work become a skill? It doesn’t take talent to work hard, anyone can do it. Show up, work hard, and listen. It takes a willingness to be dedicated, to improve, to be better.
+- When someone is constantly changing everyone around him, the problem usually isn’t those being replaced; more likely, the problem lies with the guy who can’t figure out what he needs and wants.
+- Most of the time when we ask for advice, we don’t want the truth. We want the answer we’re seeking. Be open to advice that goes against what you want.
+- People who don’t pursue their own dreams probably won’t encourage you to pursue yours; they’ll tell you every negative thing they tell themselves.
+- Failure is what happens when you decide you failed.
+- They anticipate failure; you anticipate opportunity.
+- Success is about doing things that no one else can do.
+- You can’t be relentless unless you’re willing to take chances. Safe makes you good, chances make you great.
+- Do it now, because if you wait too long, those other options start slipping away. Other people are chasing the same ideas, and they’re getting ahead of you while you cling to this old thing that’s not working.
+- Every dream you imagine, everything you see and hear and feel in your sleep, that’s not a fantasy, that’s your deep instinct telling you it can all be real.
+- The greatest battles you will ever fight are with yourself, and you must always be your toughest opponent. Always demand more of yourself than others demand of you.

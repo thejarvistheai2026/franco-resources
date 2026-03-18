@@ -1,0 +1,54 @@
+---
+category: book
+type:
+  - "#type/book"
+tags:
+  - startups
+---
+- "Take the pulse of your workforce. If you have too many people who have learned all they can in their current role and aren't leaping to a new one-disrupting themselves-then your team and organization are at risk." ― Whitney Johnson, Disrupt Yourself, p. 0
+- "But, if you don't have high-growth individuals engaged in a constant state of personal disruption, they won't be able to carry the heavy load of exponential growth." ― Whitney Johnson, Disrupt Yourself, p. 0
+- "It's been said that amateurs compete, professionals create." ― Whitney Johnson, Disrupt Yourself, p. 0
+- "When people feel strong, they are more willing to venture into new territory-to play where no one else is playing." ― Whitney Johnson, Disrupt Yourself, p. 0
+- "Constraints give us something to bump up against. They make us stronger and more focused." ― Whitney Johnson, Disrupt Yourself, p. 0
+- "Battle Entitlement, the Innovation Killer This is the hardest-and most crucial- -accelerant to embrace. It is possible to become a high-growth individual without some of the other competencies, but without this one, your efforts will inevitably fall short." ― Whitney Johnson, Disrupt Yourself, p. 0
+- "Disruptors take the right risks and play where no one else is playing. They are constantly iterating figuring it out as they go. Companies need people who can do a dogleg pivot and change direction as new data emerges." ― Whitney Johnson, Disrupt Yourself, p. 0
+- "Our view of the world is powered by personal algorithms. " ― Whitney Johnson, Disrupt Yourself, p. 0
+- "To maximize efficiency, the human brain converts these patterns or sequences of actions into a routine known as "chunking." The more chunking occurs, the more reflexive an activity becomes.2" ― Whitney Johnson, Disrupt Yourself, p. 2
+- "When you are beginning a new project, you need figure out what "jobs"-both functional and emotional--this new endeavor will do for you. " ― Whitney Johnson, Disrupt Yourself, p. 4
+- "Research from Colin Camerer, a neuroscientist at Caltech, and his colleagues indicates that people prefer known risks to ambiguity." ― Whitney Johnson, Disrupt Yourself, p. 6
+- "People can be divided into two personality categories: those who are promotion focused and those who are prevention focused. Those whose motivation is promoion focused are comfortable taking chances, like to work quickly, dream big, and think creatively: they are natural risk-takers, focused on maximizing gain. In contrast, people who are prevention focused tend to concentrate on on staying safe, work slowly and meticulously, worry what might go wrong if they aren't careful enough, and focus on preserving what they have." ― Whitney Johnson, Disrupt Yourself, p. 9
+- "Competitive Risk: You can be confident there will be customers for your product or service, but you have to assess whether you can compete and win. This iS competitive risk." ― Whitney Johnson, Disrupt Yourself, p. 10
+- "Market Risk: If instead your colleague says, "I don't know if there's a market, but I think there's a need not being met, you are looking at market risk." ― Whitney Johnson, Disrupt Yourself, p. 10
+- "we tend to prefer competitive risk because it feels more secure. But the empirical evidence says that market risk is less risky than competitive risk." ― Whitney Johnson, Disrupt Yourself, p. 10
+- "Based on this research, when you take on market versus competitive risk, the odds of success are SIX times (37 percent versus 6 percent) higher and the revenue opportunity twenty times greater." ― Whitney Johnson, Disrupt Yourself, p. 11
+- "market risk is the right kind of risk when you're looking for a new learning curve to scale." ― Whitney Johnson, Disrupt Yourself, p. 11
+- "A study done by Kennon M. Sheldon and colleagues suggests that opportunities for self-expression -for example, creativity-may increase feelings of agreeableness, conscientiousness and openness, leading people to act more responsibly, cooperatively, receptively, and cheerfully. While we perceive a new-fangled idea as more risky than an established one, what happens in our brains tells us otherwise." ― Whitney Johnson, Disrupt Yourself, p. 15
+- "You'll know you're dealing with market risk when you realize there is no one else doing a job that needs to be done." ― Whitney Johnson, Disrupt Yourself, p. 16
+- "disruptors not only look for unmet needs, they match those needs with their distinctive strengths. A distinctive strength is something that you do well that others within your sphere don't." ― Whitney Johnson, Disrupt Yourself, p. 36
+- "The frustration of genius is in if it is easy for you, it must be believing that easy for everyone else." ― Whitney Johnson, Disrupt Yourself, p. 23
+- "Once you have a clear picture of your one-of-a-kind skills, you can match those skills to unmet needs. Consider jobs where you'd be the wild-card candidate. Or look for ways to combine your passions. Look at problems that the organization needs solved, and ask yourself: Can I fix that?" ― Whitney Johnson, Disrupt Yourself, p. 31
+- "Whom the gods wish to destroy, they give unlimited resources. -Twyla Tharp" ― Whitney Johnson, Disrupt Yourself, p. 39
+- "Constraints offer structure that can liberate us from the chaos and disorder of entropy." ― Whitney Johnson, Disrupt Yourself, p. 39
+- "The human mind has astounding learning capabilities but constantly seeks out constraints. Including constraints allows you to make a faster, more accurate prediction of the consequences of your actions, letting you determine which course of action will likely give you the best result. " ― Whitney Johnson, Disrupt Yourself, p. 41
+- "The take-home message is that clear thinking, coupled with the right constraints, can lead to unequivocal answers." ― Whitney Johnson, Disrupt Yourself, p. 44
+- "When you disrupt yourself, you are so if looking for growth, you want to muscle up a curve, you have to push and pull against objects and barriers that would constrain and constrict you. That is how you get stronger." ― Whitney Johnson, Disrupt Yourself, p. 57
+- "Here's what's important: when resources are at a minimum, successful people dig deep to discover an embarrassment of riches right under their feet and a plumb line to distinctive strengths. They are also more likely to play where others aren't playing-because other doors are closed consequently taking on the less risky market risk." ― Whitney Johnson, Disrupt Yourself, p. 58
+- "Doing what we already know how to do takes the world from 1 to n. But, when we create something new, we go from 0 to 1. Unless companies invest in the difficult task of creating new things, they will fail in the future no matter how big their profits are." ― Whitney Johnson, Disrupt Yourself, p. 66
+- "But in failing to hold our charges accountable, allowing employees to experience consequences, we slip the noose of entitlement around their necks and, ultimately, ours." ― Whitney Johnson, Disrupt Yourself, p. 67
+- "To rid yourself of selfishness and entitlement, try keeping a gratitude journal, a list of three things you are thankful for each day and why." ― Whitney Johnson, Disrupt Yourself, p. 69
+- "Another kind of entitlement, more difficult to detect, is intellectual entitlement, a resistance to ideas from sources we deem beneath us." ― Whitney Johnson, Disrupt Yourself, p. 70
+- "'we [as human beings] are prone to search only for confirming evidence, and ignore disconfirming evidence." " ― Whitney Johnson, Disrupt Yourself, p. 71
+- "Clayton Christensen, "It is only when an anomaly is identified--an outcome for which a theory can't account that an opportunity to improve theory occurs."" ― Whitney Johnson, Disrupt Yourself, p. 72
+- "To move up the curve, you need "highly conventional knowledge," or pay-to-play skills, but to avoid getting pushed off the top of the curve you also need to get your rookie on." ― Whitney Johnson, Disrupt Yourself, p. 73
+- "But to effect real change, we need to be the subjects of disruption. Innovation starts as an inside game." ― Whitney Johnson, Disrupt Yourself, p. 75
+- "It is terribly difficult to step back when you are getting better and faster at what you are currently doing." ― Whitney Johnson, Disrupt Yourself, p. 78
+- "when you are disrupting you need to find the right metrics to measure you, and quite possibly these will be new metrics." ― Whitney Johnson, Disrupt Yourself, p. 89
+- "Here are just three: (1) Talent Developer-tally the number of team members for whom a manager has brokered a move into other areas of the organization; (2) Innovator--did they create an environment that fosters innovation as evidenced by the number of ideas generated by their team; (3) Value Integrator (a manager who analyzes and synthesizes information and turns It into a competitive asset)-count, for example, how many cash management strategies came from their division?"" ― Whitney Johnson, Disrupt Yourself, p. 90
+- "Neuroplasticity has a reverse function. Connections recede through lack of activation, while continual stimulation of neural pathways keeps them healthy and active, including-and especially-when you step back, down, or sideways." ― Whitney Johnson, Disrupt Yourself, p. 93
+- "Nothing is a waste of time if you use the experience wisely. -Auguste Rodin" ― Whitney Johnson, Disrupt Yourself, p. 95
+- "“Failure is only the opportunity more intelligently to begin again." - Henry Ford" ― Whitney Johnson, Disrupt Yourself, p. 95
+- "The 5 whys: The "five" derives from empirical observation of the number of iterations needed to resolve a problem." ― Whitney Johnson, Disrupt Yourself, p. 107 Note: Similar to “Obsessed” book with 5 why’s used to find the core of a brand... [[Obsessed]]
+- "The only way of discovering the limits of the possible is to venture a little way past them into the impossible. -Arthur C. Clarke" ― Whitney Johnson, Disrupt Yourself, p. 111 [[Quotes]]
+- "Flexibility becomes an important attribute. Hence, disruptors have to be driven by discovery." ― Whitney Johnson, Disrupt Yourself, p. 111
+- "while technical competencies were a starting point, a leading predictor of C-suite success is insatiable curiosity and a willingness to learn." ― Whitney Johnson, Disrupt Yourself, p. 119
+- "Learning is not linear, but exponential: there is a cumulative and compounding effect." ― Whitney Johnson, Disrupt Yourself, p. 129

@@ -1,0 +1,30 @@
+---
+category: article
+type:
+  - "#type/article"
+tags:
+  - "#stephan-ango"
+  - "#golden"
+source: https://x.com/kepano/status/1579505596717752320
+---
+#### Key Details:
+
+The cover of _The Hitchhiker’s Guide to the Galaxy_ has two simple words of advice for intergalactic travelers:
+
+Don’t panic.
+
+Panic is my least favorite feeling. I much prefer calm.
+
+Calmness is a superpower that is useful in many situations. When you feel anxious, or stressed, or angry, you can choose to be calm.
+
+People like to be around others that make them feel calm.
+
+I think it’s because there is always something to worry about, and small problems often seem to escalate into bigger ones. Calm people seem to be more helpful, they seem to see the situation more clearly.
+
+Calmness is a foundation that you can build anything on top of. Calmness helps you solve problems. Calmness helps you appreciate what you have. Calmness helps you focus on what’s important.
+
+Being calm is a form of optimism and confidence that you can get good at. It’s worthwhile to exercise.
+
+You can be the calm one.
+
+![[FeuH7iwVUAEGAbo.png]]

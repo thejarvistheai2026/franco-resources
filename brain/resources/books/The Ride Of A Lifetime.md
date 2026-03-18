@@ -1,0 +1,37 @@
+---
+category: book
+type:
+  - "#type/book"
+tags:
+  - bob-iger
+  - disney
+---
+- Innovate or die, and there’s no innovation if you operate out of fear of the new or untested”
+- “Fear of failure destroys creativity”
+- “‘Do what you need to do to make it better’ [...] it’s not about perfectionism at all costs [...] instead it’s about creating an environment in which you refuse to accept mediocrity”
+- “True integrity - a sense of knowing who you are and being guided by your own clear sense of right and wrong - is kind of a secret weapon”
+- “I’ve found that often people will focus on the little details as a way of making a lack of any clear, coherent, big thoughts. if the big picture is a mess, then the small things don’t matter anyways, and you shouldn’t spend time focusing on them”
+- “Empathy is a prerequisite to the sound management of creativity, and respect is critical”
+- “I didn’t want to be in the business of playing it safe. I wanted to be in the business of creating possibilities for greatness”
+- “Avoid getting into the business of manufacturing trombone oil. You may become the greatest trombone-oil manufacturer in the world, but in the end, the world only consumes a few quarts of trombone oil a year!”
+- “But those instances in which you find yourself hoping that something will work without being able to convincingly explain to yourself how it will work - that’s when a little bell should go off...”
+- “What struck me, and what was invaluable in my own education, was his ability to see the big picture as well as the granular details at the same time, and consider how one affected the other.”
+- “He understood that ‘great’ is often a collection of very small things, and helped me appreciate that more deeply.”
+- “Of great interest to me was the fact that almost every traditional media company [...] was operating out of fear rather than courage, stubbornly trying to build a bulwark to protect old models that couldn’t possibly survive the sea of change that was underway.”
+- “[...] but optimism in a leader, especially in challenging times, is so vital. Pessimism leads to paranoia, which leads to defensiveness, which leads to risk aversion.”
+- “The tone you set as a leader has an enormous effect on the people around you. No one wants to follow a pessimist.”
+- “A company’s culture is shaped by a lot of things, but this is one of the most important- you have to convey your priorities clearly and repeatedly.” In my experience, it’s what separates great managers from the rest.”
+- “I can’t overstate how important it is to keep blows to the ego, real as they often are, from occupying too big a place in your mid and sapping too much of your energy.”
+- “it’s easy to be optimistic when everyone is telling you you’re great. It’s much harder, and much more necessary, when your sense of yourself is being challenged, and in such a public way.”
+- “Don’t let your ego get in the way of making the best possible decision”
+- “[...] but you also have to recognize that there is never 100 percent certainty. No matter how much data you’ve been given, it’s still, ultimately, a risk, and the decision to take that risk or not comes down to one person’s instinct.”
+- “People sometimes shy away from taking big swings because they assess the odds and build a case against trying something before they even take the first step [...] that long shots aren’t usually as long as they seem.”
+- “Another lesson: Steve was great at weighing all sides of an issue and not allowing negatives to drown out positives, particularly for the things he wanted to accomplish. It was a powerful quality of his.”
+- “Every time I went to a meeting there and looked at that gigantic whiteboard, I saw [[[CRM] Steve Jobs]], intense, energetic, engaged, and far more open to the possibility of making this idea (and I suspected many ideas) work.”
+- “[...] technological ingenuity that enabled creativity at its highest form. This yin and yang was the soul of Pixar. Everything flowed from it.”
+- “As with everything, the key is awareness, taking it all in and weighing every factor- your own motivations, what the people you trust are saying, what careful study and analysis tell you, and then what analysis can’t tell you.”
+- “You carefully consider all of these factors, understanding that no two circumstances are alike, and then, if you’re in charge, it still ultimately comes down to instinct. Is it right or isn’t it?”
+- “Nothing will be a sure thing, but you need at the very least to be willing to take big risks. You can’t have big wins without them.”
+- “The worst thing you can do when entering a negotiation is to suggest or promise something because you know the other person wants to hear it, only to have to reverse course later. You have to be clear about where you stand from the beginning.”
+- “There’s no rule book for how to manage this kind of challenge, but in general, you have to try to recognize that when the stakes of a project are very high, there’s not much to be gained from putting additional pressure on the people working on it.”
+- “That might be the hardest but also the most necessary lesson to keep in mind, that wherever you are along the path, you’re the same person you’ve always been.”
